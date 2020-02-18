@@ -17,4 +17,4 @@
        ...:     def f(cls):
        ...:         print(cls)
 
-.. _header-n1358:
+.. _header-n1358: Student.f()
